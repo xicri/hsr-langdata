@@ -1,0 +1,142 @@
+{
+  "astral-express": {
+    en: "The Astral Express",
+    ja: "星穹列車",
+    "zh-CN": "星穹列车",
+    title: {
+      en: "Chinese & Japanese translations for words related to The Astral Express",
+      ja: "星穹列車に関する言葉の英語・中国語表記一覧",
+      "zh-CN": "关于星穹列车的词语的英语和日语翻译",
+    },
+  },
+  "stellaron-hunters": {
+    en: "Stellaron Hunters",
+    ja: "星核ハンター",
+    "zh-CN": "星核猎手",
+    title: {
+      en: "Chinese & Japanese translations for words related to the Stellaron Hunters",
+      ja: "星核ハンターに関する言葉の英語・中国語表記一覧",
+      "zh-CN": "关于星核猎手的词语的英语和日语翻译",
+    },
+  },
+  herta: {
+    en: "Herta Space Station",
+    ja: "宇宙ステーション「ヘルタ」",
+    "zh-CN": "空间站「黑塔」",
+    title: {
+      en: "Chinese & Japanese translations for words related to Herta Space Station",
+      ja: "宇宙ステーション「ヘルタ」に関する言葉の英語・中国語表記一覧",
+      "zh-CN": "关于空间站「黑塔」的词语的英语和日语翻译",
+    },
+  },
+  "jarilo-6": {
+    en: "Jarilo-Ⅵ",
+    ja: "ヤリーロ-Ⅵ",
+    "zh-CN": "",
+    title: {
+      en: "Chinese & Japanese translations for words related to Jarilo-Ⅵ",
+      ja: "ヤリーロ-Ⅵに関する言葉の英語・中国語表記一覧",
+      "zh-CN": "关于**的词语的英语和日语翻译",
+    },
+  },
+  luofu: {
+    en: "The Xianzhou Luofu",
+    ja: "仙舟・羅浮",
+    "zh-CN": "仙舟: 罗浮",
+    title: {
+      en: "Chinese & Japanese translations for words related to The Xianzhou Luofu",
+      ja: "仙舟・羅浮に関する言葉の英語・中国語表記一覧",
+      "zh-CN": "关于仙舟: 罗浮的词语的英语和日语翻译",
+    },
+  },
+  "character-playable": {
+    en: "Character (Playable)",
+    ja: "キャラ (プレイアブル)",
+    "zh-CN": "角色（可操作）",
+    title: {
+      en: "Chinese & Japanese translations for playable characters in Honkai: Star Rail",
+      ja: "崩壊: スターレイルのプレイアブルキャラクターの英語・中国語表記一覧",
+      "zh-CN": "崩坏: 星穹铁道中可操作角色相关的词语的英语和日语翻译",
+    },
+  },
+  "character-npc": {
+    en: "Character (NPC)",
+    ja: "キャラ (NPC)",
+    "zh-CN": "角色（NPC）",
+    title: {
+      en: "Chinese & Japanese translations for NPCs in Honkai: Star Rail",
+      ja: "崩壊: スターレイルのキャラクター (NPC) の英語・中国語表記一覧",
+      "zh-CN": "崩坏: 星穹铁道中NPC角色相关的词语的英语和日语翻译",
+    },
+  },
+  enemy: {
+    en: "Enemy",
+    ja: "敵",
+    "zh-CN": "敌人",
+    title: {
+      en: "Chinese & Japanese translations for enemies in Honkai: Star Rail",
+      ja: "崩壊: スターレイルの敵の英語・中国語表記一覧",
+      "zh-CN": "崩坏: 星穹铁道中的敌人的英语和日语翻译",
+    },
+  },
+  "enemy-boss": {
+    en: "Boss",
+    ja: "ボス",
+    "zh-CN": "Boss",
+    title: {
+      en: "Chinese & Japanese translations for bosses in Honkai: Star Rail",
+      ja: "崩壊: スターレイルのボスの英語・中国語表記一覧",
+      "zh-CN": "崩坏: 星穹铁道中的Boss相关的英语和日语翻译",
+    },
+  },
+  location: {
+    en: "Location",
+    ja: "地名",
+    "zh-CN": "地名",
+    title: {
+      en: "Chinese & Japanese translations for locations in Honkai: Star Rail",
+      ja: "崩壊: スターレイルの地名の英語・中国語表記一覧",
+      "zh-CN": "崩坏: 星穹铁道中的地名的英语和日语翻译",
+    },
+  },
+  object: {
+    en: "Object",
+    ja: "オブジェクト",
+    "zh-CN": "物品",
+    title: {
+      en: "Chinese & Japanese translations for objects in Honkai: Star Rail",
+      ja: "崩壊: スターレイルに登場するオブジェクトの英語・中国語表記一覧",
+      "zh-CN": "崩坏: 星穹铁道中出现的物品相关的英语和日语翻译",
+    },
+  },
+  organization: {
+    en: "Organization",
+    ja: "組織",
+    "zh-CN": "团体组织",
+    title: {
+      en: "Chinese & Japanese translations for organizations in Honkai: Star Rail",
+      ja: "崩壊: スターレイルに登場する組織の英語・中国語表記一覧",
+      "zh-CN": "崩坏: 星穹铁道中出现的团体组织相关的英语和日语翻译",
+    },
+  },
+  facility: {
+    en: "Shop & Facility",
+    ja: "店舗・施設等",
+    "zh-CN": "店铺·设施等",
+    title: {
+      en: "Chinese & Japanese translations for shops & facilities in Honkai: Star Rail",
+      ja: "崩壊: スターレイルに登場する店舗・施設等の英語・中国語表記一覧",
+      "zh-CN": "崩坏: 星穹铁道中出现的店铺·设施等相关的英语和日语翻译",
+    },
+  },
+  item: {
+    en: "Item",
+    ja: "アイテム",
+    "zh-CN": "道具",
+    title: {
+      en: "Chinese & Japanese translations for items in Honkai: Star Rail",
+      ja: "崩壊: スターレイルのアイテムの英語・中国語表記一覧",
+      "zh-CN": "崩坏: 星穹铁道中的道具的英语和日语翻译",
+    },
+  },
+}
