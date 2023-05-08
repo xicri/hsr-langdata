@@ -1,0 +1,23 @@
+{
+  "name": "hsr-langdata",
+  "private": true,
+  "license": "SEE LICENSE IN LICENSE.md",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "scripts": {
+    "lint": "find ./dataset/ -name *.json5 | xargs json5 --validate && eslint --ext .js,.mjs,.cjs,.ts,.json,.json5 --ignore-path .gitignore .",
+    "prepare": "if npm list husky > /dev/null; then husky install; fi"
+  },
+  "dependencies": {
+    "eslint": "latest",
+    "eslint-config-xicri": "latest",
+    "json5": "^2.2.2"
+  },
+  "devDependencies": {
+    "husky": "^8.0.3",
+    "lint-staged": "^13.1.2"
+  }
+}
