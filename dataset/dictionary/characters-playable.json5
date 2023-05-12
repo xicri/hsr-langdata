@@ -3,18 +3,212 @@
   // The Astral Express
   //
   {
-    en: "",
-    ja: "",
-    zhCN: "",
-    pronunciationJa: "",
-    notes: "",
-    notesZh: "",
-    tags: [ "character-playable" ],
+    en: "Himeko",
+    ja: "姫子",
+    zhCN: "姬子",
+    pronunciationJa: "ひめこ",
+    tags: [ "character-playable", "astral-express" ],
+  },
+  {
+    en: "Welt Yang",
+    ja: "ヴェルト・ヨウ",
+    zhCN: "瓦尔特·杨",
+    tags: [ "character-playable", "astral-express" ],
+  },
+  {
+    en: "Trailblazer",
+    ja: "開拓者",
+    zhCN: "开拓者",
+    pronunciationJa: "かいたくしゃ",
+    tags: [ "character-playable", "astral-express" ],
+  },
+  {
+    en: "March 7th",
+    ja: "三月なのか",
+    zhCN: "三月七",
+    pronunciationJa: "みつきなのか",
+    tags: [ "character-playable", "astral-express" ],
+  },
+  {
+    en: "Dan Heng",
+    ja: "丹恒",
+    zhCN: "丹恒",
+    pronunciationJa: "たんこう",
+    tags: [ "character-playable", "astral-express" ],
   },
 
   //
   // Stellaron Hunters
   //
 
-  // ...
+  {
+    en: "Kafka",
+    ja: "カフカ",
+    zhCN: "卡芙卡",
+    tags: [ "character-playable", "stellaron-hunters" ],
+  },
+  {
+    en: "Silver Wolf",
+    ja: "銀狼",
+    zhCN: "银狼",
+    pronunciationJa: "ぎんろう",
+    tags: [ "character-playable", "stellaron-hunters" ],
+  },
+  {
+    en: "Blade",
+    ja: "刃",
+    zhCN: "刃",
+    pronunciationJa: "じん",
+    tags: [ "character-playable", "stellaron-hunters" ],
+  },
+
+  //
+  // Herta Space Station
+  //
+
+  {
+    en: "Herta",
+    ja: "ヘルタ",
+    zhCN: "黑塔",
+    tags: [ "character-playable", "herta" ],
+  },
+  {
+    en: "Asta",
+    ja: "アスター",
+    zhCN: "艾丝妲",
+    tags: [ "character-playable", "herta" ],
+  },
+  {
+    en: "Arlan",
+    ja: "アーラン",
+    zhCN: "阿兰",
+    tags: [ "character-playable", "herta" ],
+  },
+
+  //
+  // Belobog
+  //
+
+  {
+    en: "Seele",
+    ja: "ゼーレ",
+    zhCN: "希儿",
+    tags: [ "character-playable", "jarilo-6" ],
+  },
+  {
+    en: "Bronya",
+    ja: "ブローニャ",
+    zhCN: "布洛妮娅",
+    tags: [ "character-playable", "jarilo-6" ],
+  },
+  {
+    en: "Clara",
+    ja: "クラーラ",
+    zhCN: "克拉拉",
+    tags: [ "character-playable", "jarilo-6" ],
+  },
+  {
+    en: "Gepard",
+    ja: "ジェパード",
+    zhCN: "杰帕德",
+    tags: [ "character-playable", "jarilo-6" ],
+  },
+  {
+    en: "Hook",
+    ja: "フック",
+    zhCN: "虎克",
+    tags: [ "character-playable", "jarilo-6" ],
+  },
+  {
+    en: "Natasha",
+    ja: "ナターシャ",
+    zhCN: "娜塔莎",
+    tags: [ "character-playable", "jarilo-6" ],
+  },
+  {
+    en: "Pela",
+    ja: "ぺラ",
+    zhCN: "佩拉",
+    tags: [ "character-playable", "jarilo-6" ],
+  },
+  {
+    en: "Sampo",
+    ja: "サンポ",
+    zhCN: "桑博",
+    tags: [ "character-playable", "jarilo-6" ],
+  },
+  {
+    en: "Serval",
+    ja: "セーバル",
+    zhCN: "希露瓦",
+    tags: [ "character-playable", "jarilo-6" ],
+  },
+
+  //
+  // The Xianzhou Luofu
+  //
+
+  {
+    en: "Bailu",
+    ja: "白露",
+    zhCN: "白露",
+    pronunciationJa: "びゃくろ",
+    tags: [ "character-playable", "luofu" ],
+  },
+  {
+    en: "Yanqing",
+    ja: "彦卿",
+    zhCN: "彦卿",
+    pronunciationJa: "げんきょう",
+    tags: [ "character-playable", "luofu" ],
+  },
+  {
+    en: "Qingque",
+    ja: "青雀",
+    zhCN: "青雀",
+    pronunciationJa: "せいじゃく",
+    tags: [ "character-playable", "luofu" ],
+  },
+  {
+    en: "Sushang",
+    ja: "素裳",
+    zhCN: "素裳",
+    pronunciationJa: "すしょう",
+    tags: [ "character-playable", "luofu" ],
+  },
+  {
+    en: "Tingyun",
+    ja: "停雲",
+    zhCN: "停云",
+    pronunciationJa: "ていうん",
+    tags: [ "character-playable", "luofu" ],
+  },
+  {
+    en: "Fu Xuan",
+    ja: "符玄",
+    zhCN: "符玄",
+    pronunciationJa: "ふげん",
+    tags: [ "character-playable", "luofu" ],
+  },
+  {
+    en: "Jing Yuan",
+    ja: "景元",
+    zhCN: "景元",
+    pronunciationJa: "けいげん",
+    tags: [ "character-playable", "luofu" ],
+  },
+  {
+    en: "Luocha",
+    ja: "羅刹",
+    zhCN: "罗刹",
+    pronunciationJa: "らせつ",
+    tags: [ "character-playable", "luofu" ],
+  },
+  {
+    en: "Yukong",
+    ja: "御空",
+    zhCN: "驭空",
+    pronunciationJa: "ぎょくう",
+    tags: [ "character-playable", "luofu" ],
+  },
 ]

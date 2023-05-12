@@ -1,10 +1,14 @@
 [
   {
-    en: "",
-    ja: "",
-    zhCN: "",
-    pronunciationJa: "",
-    notes: "",
-    notesZh: "",
+    en: "Simulated Universe",
+    ja: "模擬宇宙",
+    zhCN: "模拟宇宙",
+    pronunciationJa: "もぎうちゅう",
+  },
+  {
+    en: "Forgotten Hall",
+    ja: "忘却の庭",
+    zhCN: "忘却之庭",
+    pronunciationJa: "ぼうきゃくのにわ",
   },
 ]

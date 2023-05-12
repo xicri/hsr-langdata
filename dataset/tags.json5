@@ -32,21 +32,21 @@
   "jarilo-6": {
     en: "Jarilo-Ⅵ",
     ja: "ヤリーロ-Ⅵ",
-    "zh-CN": "",
+    "zh-CN": "雅利洛-Ⅵ",
     title: {
       en: "Chinese & Japanese translations for words related to Jarilo-Ⅵ",
       ja: "ヤリーロ-Ⅵに関する言葉の英語・中国語表記一覧",
-      "zh-CN": "关于**的词语的英语和日语翻译",
+      "zh-CN": "关于雅利洛-Ⅵ的词语的英语和日语翻译",
     },
   },
   luofu: {
     en: "The Xianzhou Luofu",
-    ja: "仙舟・羅浮",
-    "zh-CN": "仙舟: 罗浮",
+    ja: "仙舟「羅浮」",
+    "zh-CN": "仙舟「罗浮」",
     title: {
       en: "Chinese & Japanese translations for words related to The Xianzhou Luofu",
-      ja: "仙舟・羅浮に関する言葉の英語・中国語表記一覧",
-      "zh-CN": "关于仙舟: 罗浮的词语的英语和日语翻译",
+      ja: "仙舟「羅浮」に関する言葉の英語・中国語表記一覧",
+      "zh-CN": "关于仙舟「罗浮」的词语的英语和日语翻译",
     },
   },
   "character-playable": {
@@ -137,6 +137,16 @@
       en: "Chinese & Japanese translations for items in Honkai: Star Rail",
       ja: "崩壊: スターレイルのアイテムの英語・中国語表記一覧",
       "zh-CN": "崩坏: 星穹铁道中的道具的英语和日语翻译",
+    },
+  },
+  system: {
+    en: "System",
+    ja: "システム",
+    "zh-CN": "游戏系统",
+    title: {
+      en: "Chinese & Japanese translations for system words in Honkai: Star Rail",
+      ja: "崩壊: スターレイルのシステム用語の英語・中国語表記一覧",
+      "zh-CN": "崩坏: 星穹铁道中的系统用语的英语和日语翻译",
     },
   },
 }
