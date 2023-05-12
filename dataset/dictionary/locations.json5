@@ -1,8 +1,9 @@
 [
   {
-    en: "Jarilo-VI",
-    ja: "ヤリーロシックス",
+    en: "Jarilo-Ⅵ",
+    ja: "ヤリーロ-Ⅵ",
     zhCN: "雅利洛-Ⅵ",
+    pronunciationJa: "ヤリーロシックス",
     notesZh: "读作「雅利洛六号」",
     tags: [ "location", "jarilo-6" ],
   },
