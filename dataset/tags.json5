@@ -139,4 +139,14 @@
       "zh-CN": "崩坏: 星穹铁道中的道具的英语和日语翻译",
     },
   },
+  system: {
+    en: "System",
+    ja: "システム",
+    "zh-CN": "游戏系统",
+    title: {
+      en: "Chinese & Japanese translations for system words in Honkai: Star Rail",
+      ja: "崩壊: スターレイルのシステム用語の英語・中国語表記一覧",
+      "zh-CN": "崩坏: 星穹铁道中的系统用语的英语和日语翻译",
+    },
+  },
 }
